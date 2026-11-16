@@ -1,0 +1,8 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "Personal finance workspace for multi-currency income and expense tracking, monthly category budgets, and spending reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

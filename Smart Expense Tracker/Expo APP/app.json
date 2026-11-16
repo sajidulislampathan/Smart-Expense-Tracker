@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Smart Expense Tracker",
+    "slug": "smart-expense-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "smartexpense",
+    "plugins": ["expo-notifications"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.smartexpensetracker"
+    },
+    "android": {
+      "package": "com.yourcompany.smartexpensetracker",
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F7FB"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_EAS_PROJECT_ID"
+      }
+    }
+  }
+}
